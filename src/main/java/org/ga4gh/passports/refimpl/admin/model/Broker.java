@@ -1,6 +1,6 @@
 package org.ga4gh.passports.refimpl.admin.model;
 
-public class Broker {
+public class Broker implements PassportModel {
 
     private String name;
 
